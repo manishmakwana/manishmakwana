@@ -1,0 +1,50 @@
+[
+  {
+    "position": "Associate Director Engineering",
+    "start_date": "2024-04",
+    "end_date": null,
+    "company_name": "Haptik"
+  },
+  {
+    "position": "Sr. Engineering Manager",
+    "start_date": "2023-04",
+    "end_date": "2024-04",
+    "company_name": "Haptik"
+  },
+  {
+    "position": "Engineering Manager",
+    "start_date": "2021-10",
+    "end_date": "2023-04",
+    "company_name": "Haptik"
+  },
+  {
+    "position": "Engineering Manager",
+    "start_date": "2018-01",
+    "end_date": "2021-10",
+    "company_name": "Johnson Controls"
+  },
+  {
+    "position": "Technical Lead",
+    "start_date": "2016-02",
+    "end_date": "2018-12",
+    "company_name": "Johnson Controls"
+  },
+  {
+    "position": "Senior Software Developer",
+    "start_date": "2014-04",
+    "end_date": "2016-01",
+    "company_name": "Pegasus InfoCorp Pvt. Ltd. (Client side at Johnson Controls Inc)"
+  },
+  {
+    "position": "Software Engineer",
+    "start_date": "2012-06",
+    "end_date": "2014-04",
+    "company_name": "Rheal Software Pvt. Ltd."
+  },
+  {
+    "position": "AGT",
+    "start_date": "2010-09",
+    "end_date": "2011-02",
+    "company_name": "Navteq"
+  }
+]
